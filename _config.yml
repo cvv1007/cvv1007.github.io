@@ -1,6 +1,3 @@
-title: Charlie V
-description: Charlie V (cvv1007) — software engineer
-# No theme: using a custom layout in _layouts/default.html
-theme: ""
-email: hello@cvv1007.dev
-url: https://cvv1007.github.io
+theme: jekyll-theme-minimal
+title: Charles Wang
+description: Charles Wangs home page
